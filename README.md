@@ -11,15 +11,26 @@ Fuel是否会继续开发
 会，因为作者太闲了
 
 English
+
 Fuel is a substance that can be burned to produce energy?
+
 Fuel is a PPTX merger based on SFC (Desert Knowledge Manual and loaded extensions (mods)). It achieves merging by loading a jar file and inserting the internal PPTX file into the second line of the fuel.json file (the syntax is completely informal). It is based on Python and requires the pptx library
+
 The original intention behind the development of Fuel
 I was bored during the summer vacation
+
 The Future of Fuel
+
 The code is generated entirely using Doubao
+
 Will Fuel continue to be developed
-是的，因为作者太懒了
+
+Yes.
+
 感谢：
+
 豆包AI（www.doubao.com）程序
+
 百度翻译（fanyi.baidu.com）翻译
+
 哔哩哔哩（bilibili.com）娱乐帮助
