@@ -18,7 +18,7 @@ I was bored during the summer vacation
 The Future of Fuel
 The code is generated entirely using Doubao
 Will Fuel continue to be developed
-Yes, because the author is too idle
+是的，因为作者太懒了
 感谢：
 豆包AI（www.doubao.com）程序
 百度翻译（fanyi.baidu.com）翻译
