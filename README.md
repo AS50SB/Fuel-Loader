@@ -18,19 +18,19 @@ Fuel是否会继续开发
 
 会，因为作者太闲了
 
-为什么使用.jar格式当作压缩包？ 
+为什么使用.jar格式当作压缩包？
 
-显得高级，只要压缩zip改格式就行了，不要使用gradle 
+显得高级，只要压缩zip改格式就行了，不要使用gradle
 
-json的语法是什么？ 
+json的语法是什么？
 
 {  
 位置数字  
-} 
+}
 
-能否更加简单的安装？ 
+能否更加简单的安装？
 
-后续会推出直接安装的启动器。 
+后续会推出直接安装的启动器。
 
 感谢：
 
@@ -40,4 +40,6 @@ json的语法是什么？
 
 哔哩哔哩（bilibili.com）娱乐帮助
 
- 国内可以使用网盘https://endandblssom.lanzouu.com/iuRxP37jluab
+ 国内可以使用网盘https://endandblssom.lanzouu.com/iuRxP37jluab 
+
+ 安装器的Github：https://github.com/AS50SB/Fuel-Installer-/tree/main
