@@ -31,7 +31,7 @@ json的语法是什么？
 能否更加简单的安装？
 
 后续会推出直接安装的启动器。
-
+ 
 感谢：
 
 豆包AI（www.doubao.com）程序
@@ -42,4 +42,6 @@ json的语法是什么？
 
  国内可以使用网盘https://endandblssom.lanzouu.com/iuRxP37jluab 
 
- 安装器的Github：https://github.com/AS50SB/Fuel-Installer-/tree/main
+ 安装器的Github：https://github.com/AS50SB/Fuel-Installer-/tree/main 
+
+下载SFC:https://endandblssom.lanzouu.com/b011lnxhud 密码：deqb (注意标准名称是沙漠防治手册而不是沙漠知识手册)
